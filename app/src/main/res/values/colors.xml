@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="guy">#444F7D</color>
+    <color name="lmountain">#DAB9D6</color>
+    <color name="sky">#FACECF</color>
+    <color name="forest">#403F5E</color>
+    <color name="mountain">#A29BC4</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
